@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-crypto-zombie/static/css/main.8406f7ba.chunk.css",
-    "main.js": "/my-crypto-zombie/static/js/main.88071c96.chunk.js",
-    "main.js.map": "/my-crypto-zombie/static/js/main.88071c96.chunk.js.map",
-    "runtime-main.js": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js",
-    "runtime-main.js.map": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js.map",
-    "static/js/2.4591672a.chunk.js": "/my-crypto-zombie/static/js/2.4591672a.chunk.js",
-    "static/js/2.4591672a.chunk.js.map": "/my-crypto-zombie/static/js/2.4591672a.chunk.js.map",
-    "index.html": "/my-crypto-zombie/index.html",
-    "precache-manifest.d41325931f831c1fa5406078ce01e238.js": "/my-crypto-zombie/precache-manifest.d41325931f831c1fa5406078ce01e238.js",
-    "service-worker.js": "/my-crypto-zombie/service-worker.js",
-    "static/css/main.8406f7ba.chunk.css.map": "/my-crypto-zombie/static/css/main.8406f7ba.chunk.css.map",
-    "static/js/2.4591672a.chunk.js.LICENSE": "/my-crypto-zombie/static/js/2.4591672a.chunk.js.LICENSE",
-    "static/media/App.css": "/my-crypto-zombie/static/media/walls.b102b800.jpg",
-    "static/media/ZombiePreview.css": "/my-crypto-zombie/static/media/zombierun.08087132.png"
+    "main.css": "/16183/xjs.git/static/css/main.73bf8641.chunk.css",
+    "main.js": "/16183/xjs.git/static/js/main.26556f64.chunk.js",
+    "main.js.map": "/16183/xjs.git/static/js/main.26556f64.chunk.js.map",
+    "runtime-main.js": "/16183/xjs.git/static/js/runtime-main.7481c97b.js",
+    "runtime-main.js.map": "/16183/xjs.git/static/js/runtime-main.7481c97b.js.map",
+    "static/js/2.d10f7a56.chunk.js": "/16183/xjs.git/static/js/2.d10f7a56.chunk.js",
+    "static/js/2.d10f7a56.chunk.js.map": "/16183/xjs.git/static/js/2.d10f7a56.chunk.js.map",
+    "index.html": "/16183/xjs.git/index.html",
+    "precache-manifest.c2efb05113c45726c1cebd6cd20a7efc.js": "/16183/xjs.git/precache-manifest.c2efb05113c45726c1cebd6cd20a7efc.js",
+    "service-worker.js": "/16183/xjs.git/service-worker.js",
+    "static/css/main.73bf8641.chunk.css.map": "/16183/xjs.git/static/css/main.73bf8641.chunk.css.map",
+    "static/js/2.d10f7a56.chunk.js.LICENSE": "/16183/xjs.git/static/js/2.d10f7a56.chunk.js.LICENSE",
+    "static/media/App.css": "/16183/xjs.git/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/16183/xjs.git/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c1a62d7.js",
-    "static/js/2.4591672a.chunk.js",
-    "static/css/main.8406f7ba.chunk.css",
-    "static/js/main.88071c96.chunk.js"
+    "static/js/runtime-main.7481c97b.js",
+    "static/js/2.d10f7a56.chunk.js",
+    "static/css/main.73bf8641.chunk.css",
+    "static/js/main.26556f64.chunk.js"
   ]
 }
